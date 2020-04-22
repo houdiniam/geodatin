@@ -1,0 +1,7 @@
+header.header{
+    box-shadow: var(--shadow)
+}
+
+header.header li:hover{
+    background-color: rgb(143, 188, 202); 
+}
